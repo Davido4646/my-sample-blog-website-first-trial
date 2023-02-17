@@ -18,7 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Davido4646/my-sample-blog-website/"
+    "url": "git+https://github.com/Davido4646/my-sample-blog-website.git"
   },
+  "bugs": {
+    "url": "https://github.com/Davido4646/my-sample-blog-website/issues"
+  },
+  "homepage": "https://github.com/Davido4646/my-sample-blog-website#readme",
+  "devDependencies": {},
   "description": ""
 }
